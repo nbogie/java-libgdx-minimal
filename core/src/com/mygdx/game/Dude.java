@@ -6,7 +6,6 @@ import com.badlogic.gdx.math.Vector2;
 
 import static com.badlogic.gdx.math.MathUtils.random;
 
-//asset(s) from https://www.kenney.nl/assets/pirate-pack
 public class Dude {
     Vector2 pos;
     Vector2 vel;
